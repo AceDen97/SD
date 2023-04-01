@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T14:02:03.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="PIfrzpW8VNGA36hnk8dM" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T14:02:27.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="CBdF6EKKd9v9nrtrN0sC" version="21.1.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2771" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,13 +85,13 @@
         <mxCell id="aEpdDMxwcWBstpWd957g-27" value="Cliente Web&lt;br&gt;Postman" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-45" y="180" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-28" value="WebService(REST)&lt;br&gt;api-crud" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25;fillColor=#C7DAFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="aEpdDMxwcWBstpWd957g-28" value="WebService(AUTH)&lt;br&gt;api-crud" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25;fillColor=#C7DAFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="180" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-29" value="Servidor DB&lt;br&gt;mongoDB" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#CCDEFC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="550" y="180" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-30" value="WebService(REST)&lt;br&gt;api-auth-reg" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25;fillColor=#80b5ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="aEpdDMxwcWBstpWd957g-30" value="WebService(AUTH)&lt;br&gt;api-auth-reg" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25;fillColor=#80b5ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="180" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
