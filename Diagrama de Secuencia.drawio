@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T14:34:38.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="iZ5V6l1KbANygSomLUmF" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T14:35:09.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="mM69Uc-li9osWfHwTVaV" version="21.1.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1769" dy="1423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2320" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1154,63 +1154,63 @@
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-232" value="POST /api/:coleccion" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1200" y="1290" as="sourcePoint" />
-            <mxPoint x="1400" y="1290" as="targetPoint" />
+            <mxPoint x="1200" y="1300" as="sourcePoint" />
+            <mxPoint x="1400" y="1300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1300" y="1290" />
+              <mxPoint x="1300" y="1300" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-233" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1395" y="1290" width="10" height="50" as="geometry" />
+          <mxGeometry x="1395" y="1300" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-234" value="req.collection.save&lt;br&gt;(nuevoElemento)}" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="aEpdDMxwcWBstpWd957g-238">
           <mxGeometry x="0.1429" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1404" y="1300" as="sourcePoint" />
-            <mxPoint x="1579" y="1300" as="targetPoint" />
+            <mxPoint x="1404" y="1310" as="sourcePoint" />
+            <mxPoint x="1579" y="1310" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-235" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1795" y="1300" width="10" height="30" as="geometry" />
+          <mxGeometry x="1795" y="1310" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-236" value="{coleccion}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1593" y="1330" as="sourcePoint" />
-            <mxPoint x="1408" y="1330" as="targetPoint" />
+            <mxPoint x="1593" y="1340" as="sourcePoint" />
+            <mxPoint x="1408" y="1340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1458" y="1330" />
+              <mxPoint x="1458" y="1340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-237" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry x="0.004" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1390" y="1340" as="sourcePoint" />
-            <mxPoint x="1200" y="1340" as="targetPoint" />
+            <mxPoint x="1390" y="1350" as="sourcePoint" />
+            <mxPoint x="1200" y="1350" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-238" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1595" y="1290" width="10" height="50" as="geometry" />
+          <mxGeometry x="1595" y="1300" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-239" value="collections.save" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.1384" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1615" y="1306" as="sourcePoint" />
-            <mxPoint x="1790" y="1306" as="targetPoint" />
+            <mxPoint x="1615" y="1316" as="sourcePoint" />
+            <mxPoint x="1790" y="1316" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1700" y="1306" />
+              <mxPoint x="1700" y="1316" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-240" value="{result}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1793" y="1324" as="sourcePoint" />
-            <mxPoint x="1608" y="1324" as="targetPoint" />
+            <mxPoint x="1793" y="1334" as="sourcePoint" />
+            <mxPoint x="1608" y="1334" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1658" y="1324" />
+              <mxPoint x="1658" y="1334" />
             </Array>
           </mxGeometry>
         </mxCell>
