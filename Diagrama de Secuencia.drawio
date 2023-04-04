@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T17:28:08.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="cjbbF5sksKj1ivHmrmhs" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T18:17:44.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="OLxcjYNps36YMMH296ps" version="21.1.4" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1614" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2018" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,36 +16,27 @@
         <mxCell id="aEpdDMxwcWBstpWd957g-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
           <mxGeometry x="160" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-10" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="360" y="40" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="1100" as="sourcePoint" />
+            <mxPoint y="1280" as="sourcePoint" />
             <mxPoint y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="1100" as="sourcePoint" />
+            <mxPoint x="200" y="1270" as="sourcePoint" />
             <mxPoint x="200" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" parent="1" edge="1">
+        <mxCell id="aEpdDMxwcWBstpWd957g-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="1100" as="sourcePoint" />
-            <mxPoint x="400" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" parent="1" source="aEpdDMxwcWBstpWd957g-45" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="599.58" y="640" as="sourcePoint" />
+            <mxPoint x="600" y="340" as="sourcePoint" />
             <mxPoint x="600" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="1090" as="sourcePoint" />
+            <mxPoint x="800" y="1280" as="sourcePoint" />
             <mxPoint x="800" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -54,9 +45,6 @@
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-17" value="localhost" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="120" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-18" value="localhost" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-19" value="localhost" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="120" width="60" height="30" as="geometry" />
@@ -70,9 +58,6 @@
         <mxCell id="aEpdDMxwcWBstpWd957g-22" value="4200" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="155" y="150" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-23" value="4100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="355" y="150" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-24" value="27017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="555" y="150" width="90" height="30" as="geometry" />
         </mxCell>
@@ -84,9 +69,6 @@
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-27" value="Cliente Web&lt;br&gt;Postman" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-45" y="180" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-28" value="WebService(AUTH)&lt;br&gt;api-crud" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25;fillColor=#C7DAFF;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="332.5" y="180" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-29" value="Servidor DB&lt;br&gt;mongoDB" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#CCDEFC;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="550" y="180" width="100" height="50" as="geometry" />
@@ -122,365 +104,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-38" value="POST /api/auth {email, password}" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="aEpdDMxwcWBstpWd957g-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="330" as="sourcePoint" />
-            <mxPoint x="200" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="330" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="330" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-44" value="User.findOne({email})" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="340" as="sourcePoint" />
-            <mxPoint x="600" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="305" y="340" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" parent="1" target="aEpdDMxwcWBstpWd957g-45" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="1100" as="sourcePoint" />
-            <mxPoint x="600" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="340" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-47" value="{user}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="aEpdDMxwcWBstpWd957g-45" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="440" as="sourcePoint" />
-            <mxPoint x="200" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-49" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="380" as="sourcePoint" />
-            <mxPoint y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-50" value="POST /api/auth/reg {email, &lt;br&gt;nombre, password}" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="409.17" as="sourcePoint" />
-            <mxPoint x="200" y="409.17" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="409.17" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="400" width="10" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-52" value="User.findOne({email})" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0013" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="410" as="sourcePoint" />
-            <mxPoint x="600" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="305" y="410" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="410" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-54" value="{user}" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aEpdDMxwcWBstpWd957g-53" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="585" y="460" as="sourcePoint" />
-            <mxPoint x="205" y="460" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="475" y="460" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-55" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="470" as="sourcePoint" />
-            <mxPoint y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-57" value="User.save" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0013" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="430" as="sourcePoint" />
-            <mxPoint x="600" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="305" y="430" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-63" value="GET /api/user" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="499" as="sourcePoint" />
-            <mxPoint x="200" y="499" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="499" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="499" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-65" value="User.find" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="509" as="sourcePoint" />
-            <mxPoint x="600" y="509" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="305" y="509" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="509" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-67" value="{user}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="aEpdDMxwcWBstpWd957g-66" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="609" as="sourcePoint" />
-            <mxPoint x="200" y="539" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-68" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="549" as="sourcePoint" />
-            <mxPoint y="549" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-69" value="GET /api/user/:id" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="580" as="sourcePoint" />
-            <mxPoint x="200" y="580" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="580" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="580" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-71" value="User.findOne({id()elementoID})" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="0.1384" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="204" y="590" as="sourcePoint" />
-            <mxPoint x="599" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="304" y="590" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="590" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-73" value="{elementoRecuperado}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="aEpdDMxwcWBstpWd957g-72" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="690" as="sourcePoint" />
-            <mxPoint x="200" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-74" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="630" as="sourcePoint" />
-            <mxPoint y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-75" value="GET /api/auth&amp;nbsp;" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="650" as="sourcePoint" />
-            <mxPoint x="200" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="650" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="650" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-77" value="User.find({ /*usuario: 1, correo: 1 */ nombre: 1, email: 1, _id:0})" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="660" as="sourcePoint" />
-            <mxPoint x="600" y="660" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="305" y="660" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="660" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-79" value="{user}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="aEpdDMxwcWBstpWd957g-78" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="760" as="sourcePoint" />
-            <mxPoint x="200" y="690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-80" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="700" as="sourcePoint" />
-            <mxPoint y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-81" value="GET /api/auth/me" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="740" as="sourcePoint" />
-            <mxPoint x="200" y="740" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="740" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="740" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-83" value="User.findOne({ _id:id(userId)})" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0013" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="750" as="sourcePoint" />
-            <mxPoint x="600" y="750" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="305" y="750" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="750" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-85" value="{username, email}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="595" y="780" as="sourcePoint" />
-            <mxPoint x="200" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-86" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="790" as="sourcePoint" />
-            <mxPoint y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-87" value="POST /api/user" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="830" as="sourcePoint" />
-            <mxPoint x="200" y="830" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="830" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="830" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-89" value="User.save({nuevoElemento})" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="840" as="sourcePoint" />
-            <mxPoint x="600" y="840" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="305" y="840" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="840" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-91" value="{userGuardada}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="aEpdDMxwcWBstpWd957g-90" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="940" as="sourcePoint" />
-            <mxPoint x="200" y="870" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-92" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="880" as="sourcePoint" />
-            <mxPoint y="880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-93" value="PUT /api/user/:id" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="910" as="sourcePoint" />
-            <mxPoint x="200" y="910" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="910" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="910" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-95" value="User.update({ _id: id(elementoId) },&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; { $set: nuevosRegistros },&amp;nbsp;&lt;/div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; { safe: true, multi: false })" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="920" as="sourcePoint" />
-            <mxPoint x="600" y="920" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="305" y="920" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="920" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-97" value="{result}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="aEpdDMxwcWBstpWd957g-96" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="1020" as="sourcePoint" />
-            <mxPoint x="200" y="950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-98" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="960" as="sourcePoint" />
-            <mxPoint y="960" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-99" value="DELETE /api/user/:id" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="1000" as="sourcePoint" />
-            <mxPoint x="200" y="1000" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="1000" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="1000" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-101" value="User.remove({_id: id(elementoId)})" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0013" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="1010" as="sourcePoint" />
-            <mxPoint x="600" y="1010" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="305" y="1010" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="1010" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-103" value="{resultado}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="595" y="1040" as="sourcePoint" />
-            <mxPoint x="200" y="1040" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpdDMxwcWBstpWd957g-104" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="1050" as="sourcePoint" />
-            <mxPoint y="1050" as="targetPoint" />
+            <mxPoint x="600" y="1280" as="sourcePoint" />
+            <mxPoint x="600" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aEpdDMxwcWBstpWd957g-123" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" parent="1" vertex="1">
@@ -1258,19 +885,401 @@
         <mxCell id="aEpdDMxwcWBstpWd957g-224" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1595" y="1351" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uBO_bTEq45DwLOG920t5-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" edge="1" parent="1">
+        <mxCell id="uBO_bTEq45DwLOG920t5-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1400" y="1731" as="sourcePoint" />
             <mxPoint x="1400" y="1481" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uBO_bTEq45DwLOG920t5-3" value="{user}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="uBO_bTEq45DwLOG920t5-3" value="{user}" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1790" y="499" as="sourcePoint" />
             <mxPoint x="1405" y="499" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1675" y="499" />
               <mxPoint x="1450" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-1" value="POST /api/auth {email, password}" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="352" as="sourcePoint" />
+            <mxPoint x="200" y="352" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="352" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="350" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-3" value="User.findOne({email})" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="360" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="360" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-5" value="{user}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="390" as="sourcePoint" />
+            <mxPoint x="205" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-6" value="{token JWT}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="450" as="sourcePoint" />
+            <mxPoint y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-7" value="POST /api/auth/reg {email, &lt;br&gt;nombre, password}" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="479.1700000000001" as="sourcePoint" />
+            <mxPoint x="200" y="479.1700000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="479.1700000000001" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="470" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-9" value="User.findOne({email})" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0013" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="480" as="sourcePoint" />
+            <mxPoint x="600" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="480" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="480" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-11" value="{user}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="560" as="sourcePoint" />
+            <mxPoint x="205" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="560" />
+              <mxPoint x="250" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-12" value="{user}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="570" as="sourcePoint" />
+            <mxPoint y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-13" value="User.save" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0013" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="540" as="sourcePoint" />
+            <mxPoint x="600" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="540" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-14" value="GET /api/user" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="630" as="sourcePoint" />
+            <mxPoint x="200" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="630" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="630" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-16" value="User.find" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="640" as="sourcePoint" />
+            <mxPoint x="600" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="640" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="640" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-18" value="{user}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="u3yZwDdMM7zO3DQ7vjuy-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="740" as="sourcePoint" />
+            <mxPoint x="200" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-19" value="{User}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="680" as="sourcePoint" />
+            <mxPoint y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-20" value="GET /api/user/:id" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="711" as="sourcePoint" />
+            <mxPoint x="200" y="711" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="711" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="711" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-22" value="User.findOne({id()elementoID})" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.1384" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="204" y="721" as="sourcePoint" />
+            <mxPoint x="599" y="721" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="304" y="721" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="721" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-24" value="{elementoRecuperado}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="u3yZwDdMM7zO3DQ7vjuy-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="821" as="sourcePoint" />
+            <mxPoint x="200" y="751" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-25" value="{elementoRecuperado}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="761" as="sourcePoint" />
+            <mxPoint y="761" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-26" value="GET /api/auth&amp;nbsp;" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="781" as="sourcePoint" />
+            <mxPoint x="200" y="781" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="781" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="781" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-28" value="User.find({ /*usuario: 1, correo: 1 */ nombre: 1, email: 1, _id:0})" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="791" as="sourcePoint" />
+            <mxPoint x="600" y="791" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="791" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="791" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-30" value="{user}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="u3yZwDdMM7zO3DQ7vjuy-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="891" as="sourcePoint" />
+            <mxPoint x="200" y="821" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-31" value="{user}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="831" as="sourcePoint" />
+            <mxPoint y="831" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-32" value="GET /api/auth/me" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="871" as="sourcePoint" />
+            <mxPoint x="200" y="871" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="871" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="871" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-34" value="User.findOne({ _id:id(userId)})" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0013" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="881" as="sourcePoint" />
+            <mxPoint x="600" y="881" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="881" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="881" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-36" value="{username, email}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="911" as="sourcePoint" />
+            <mxPoint x="200" y="911" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-37" value="{username,email}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="921" as="sourcePoint" />
+            <mxPoint y="921" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-38" value="POST /api/user" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="961" as="sourcePoint" />
+            <mxPoint x="200" y="961" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="961" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="961" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-40" value="User.save({nuevoElemento})" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="971" as="sourcePoint" />
+            <mxPoint x="600" y="971" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="971" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="971" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-42" value="{userGuardada}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="u3yZwDdMM7zO3DQ7vjuy-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1071" as="sourcePoint" />
+            <mxPoint x="200" y="1001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-43" value="{userGuardada}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1011" as="sourcePoint" />
+            <mxPoint y="1011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-44" value="PUT /api/user/:id" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="1041" as="sourcePoint" />
+            <mxPoint x="200" y="1041" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="1041" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1041" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-46" value="User.update({ _id: id(elementoId) },&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; { $set: nuevosRegistros },&amp;nbsp;&lt;/div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; { safe: true, multi: false })" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="1051" as="sourcePoint" />
+            <mxPoint x="600" y="1051" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="1051" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1051" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-48" value="{result}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="u3yZwDdMM7zO3DQ7vjuy-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1151" as="sourcePoint" />
+            <mxPoint x="200" y="1081" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-49" value="{result}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1091" as="sourcePoint" />
+            <mxPoint y="1091" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-50" value="DELETE /api/user/:id" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="1131" as="sourcePoint" />
+            <mxPoint x="200" y="1131" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="1131" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1131" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-52" value="User.remove({_id: id(elementoId)})" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0013" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="1141" as="sourcePoint" />
+            <mxPoint x="600" y="1141" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="1141" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1141" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-54" value="{resultado}" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="1171" as="sourcePoint" />
+            <mxPoint x="200" y="1171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-55" value="{resultado}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1181" as="sourcePoint" />
+            <mxPoint y="1181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-56" value="{result}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="440" as="sourcePoint" />
+            <mxPoint x="205" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-57" value="User.volute({estalogin})" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="410" as="sourcePoint" />
+            <mxPoint x="600" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="410" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3yZwDdMM7zO3DQ7vjuy-58" value="{user}" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="509" as="sourcePoint" />
+            <mxPoint x="205" y="509" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="509" />
+              <mxPoint x="250" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
