@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T15:11:21.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="86_-e29Tewdn5RUNtFUA" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T15:31:34.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="tAw3wMvNPAY26s91wBKo" version="21.1.5" type="github">
   <diagram name="Página-1" id="gVADvGAhawYy6BavhGWH">
-    <mxGraphModel dx="2430" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2494" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,8 +156,11 @@
         <mxCell id="2xWDJ4cLKkgiuLVgCQJJ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2xWDJ4cLKkgiuLVgCQJJ-87" target="2xWDJ4cLKkgiuLVgCQJJ-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGR5K_hc3Qk-3-y7WXE8-1" value="GET /api/tareas&lt;br&gt;OPTIONS /api/tareas&lt;br&gt;POST /api/tareas&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QGR5K_hc3Qk-3-y7WXE8-1" value="node/api-rest&lt;br&gt;&lt;br&gt;GET /api/tareas&lt;br&gt;OPTIONS /api/tareas&lt;br&gt;POST /api/tareas&lt;br&gt;OPTIONS /api/tareas/:id&lt;br&gt;PUT /api/tareas/:id&lt;br&gt;DELETE/api/tareas/:id&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-940" y="50" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QGR5K_hc3Qk-3-y7WXE8-2" value="node/api-auth&lt;br&gt;&lt;br&gt;OPTIONS /api/auth&lt;br&gt;POST /api/auth&lt;br&gt;OPTIONS /api/auth/me&lt;br&gt;GET /api/auth/me" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="50" width="320" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
