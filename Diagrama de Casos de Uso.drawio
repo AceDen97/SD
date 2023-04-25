@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T10:18:19.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="gIux--f3BGedQhSoC1RW" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T10:19:08.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="O3EqcITLSEHeyFH44E2F" version="21.2.1" type="github">
   <diagram name="Página-1" id="gVADvGAhawYy6BavhGWH">
     <mxGraphModel dx="2017" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="jByOdkcFX8gt5h1AEklP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jByOdkcFX8gt5h1AEklP-3" target="jByOdkcFX8gt5h1AEklP-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jByOdkcFX8gt5h1AEklP-3" value="?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jByOdkcFX8gt5h1AEklP-3" value="?&lt;br&gt;Además, se debe de añadir navegador web en el otro lado o es el cliente el que accede a traves de un NW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="850" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
